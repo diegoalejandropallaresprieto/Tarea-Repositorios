@@ -51,3 +51,5 @@ print(f"Promedio del grupo: {promedio:.2f}")
 print("Lista de alumnos y calificaciones en orden ascendente:")
 for nombre, calificacion in alumnos:
     print(f"{nombre}: {calificacion}")
+
+##Diego Alejandro Pallares Prieto
